@@ -48,8 +48,7 @@ Tour & Travel / Holiday Packages / Cab & Hotel Booking
 * WhatsApp Click-to-Chat Integration
 * Responsive Web Design
 * Live Server Deployment
-* Claude-assisted development
-* ChatGPT-assisted development
+
 
 ## My Role
 
